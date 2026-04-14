@@ -1,5 +1,5 @@
 package Vorlesung4;
 
 public interface IGroesser {
-    public boolean groesser();
+    public boolean groesser(Object obj);
 }

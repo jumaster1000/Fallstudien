@@ -1,21 +1,20 @@
 package Vorlesung4;
 
-public class Hochschulangehoeriger implements ISortierbar{
+public class Hochschulangehoeriger extends Person implements ISortierbar{
     @Override
-    public boolean gleich() {
+    public boolean gleich(Object obj) {
         return false;
     }
 
     @Override
-    public boolean groesser() {
+    public boolean groesser(Object obj) {
         return false;
     }
 
     @Override
-    public boolean kleiner() {
+    public boolean kleiner(Object obj) {
         return false;
     }
-
     protected String hochschule;
 
 

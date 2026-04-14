@@ -1,10 +1,8 @@
 package Vorlesung4;
 
-public class Person extends Adresse{
+public class Person {
     protected String name;
     protected String vorname;
 
-    public boolean groesser(){
-        return false;
-    }
+    private Adresse wohnort;
 }

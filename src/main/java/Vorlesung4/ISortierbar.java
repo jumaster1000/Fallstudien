@@ -2,11 +2,11 @@ package Vorlesung4;
 
 public interface ISortierbar extends IGroesser, IKleiner, IGleich{
     @Override
-    boolean gleich();
+    boolean gleich(Object obj);
 
     @Override
-    boolean groesser();
+    boolean groesser(Object obj);
 
     @Override
-    boolean kleiner();
+    boolean kleiner(Object obj);
 }
