@@ -15,4 +15,8 @@ public class Student extends Hochschulangehoeriger{
     public boolean kleiner() {
         return super.kleiner();
     }
+
+    private int matrikelnr;
+
+
 }

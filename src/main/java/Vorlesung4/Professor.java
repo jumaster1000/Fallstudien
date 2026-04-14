@@ -15,4 +15,10 @@ public class Professor extends Hochschulangehoeriger{
     public boolean kleiner() {
         return super.kleiner();
     }
+
+    private int persnr;
+
+    public boolean gibBrutto(){
+        return false;
+    }
 }
