@@ -1,4 +1,6 @@
 package Vorlesung5_AbstrakteKlassen;
 
-public class Form {
+abstract class Form {
+    abstract double berechneFlaeche();
+
 }
