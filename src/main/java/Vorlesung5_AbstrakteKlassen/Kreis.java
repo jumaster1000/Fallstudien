@@ -3,8 +3,8 @@ package Vorlesung5_AbstrakteKlassen;
 public class Kreis extends Form{
     double radius;
 
-    public Kreis(double redius) {
-        this.radius = redius;
+    public Kreis(double radius) {
+        this.radius = radius;
     }
 
     @Override
