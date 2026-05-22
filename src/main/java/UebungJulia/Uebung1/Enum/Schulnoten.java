@@ -1,4 +1,4 @@
-package UebungJulia.Uebung1;
+package UebungJulia.Uebung1.Enum;
 
 public enum Schulnoten {
     SEHR_GUT(1), GUT(2), BEFRIEDIGEND(3), AUSREICHEND(4), MANGELHAFT(5), UNGENUEGEND(6);

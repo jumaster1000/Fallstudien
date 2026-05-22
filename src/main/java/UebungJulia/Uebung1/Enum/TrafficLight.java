@@ -1,4 +1,4 @@
-package UebungJulia.Uebung1;
+package UebungJulia.Uebung1.Enum;
 
 public enum TrafficLight {
     RED("Stop"), YELLOW("Caution"), GREEN("Drive");
