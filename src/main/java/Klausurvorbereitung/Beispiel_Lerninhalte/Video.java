@@ -1,4 +1,4 @@
-package Klausurvorbereitung;
+package Klausurvorbereitung.Beispiel_Lerninhalte;
 
 public class Video extends Lerninhalt{
     public Video(String titel, int dauer, Status status) {

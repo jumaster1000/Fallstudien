@@ -1,4 +1,4 @@
-package Klausurvorbereitung;
+package Klausurvorbereitung.Beispiel_Lerninhalte;
 
 public class Quiz extends Lerninhalt implements Bewertbar{
     private Integer maxPunkte;

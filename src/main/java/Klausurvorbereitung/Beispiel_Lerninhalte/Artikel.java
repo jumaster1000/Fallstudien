@@ -1,4 +1,4 @@
-package Klausurvorbereitung;
+package Klausurvorbereitung.Beispiel_Lerninhalte;
 
 public class Artikel extends Lerninhalt implements Druckbar{
     private int seitenzahl;

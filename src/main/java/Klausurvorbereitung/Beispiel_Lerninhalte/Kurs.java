@@ -1,6 +1,5 @@
-package Klausurvorbereitung;
+package Klausurvorbereitung.Beispiel_Lerninhalte;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class Kurs <T extends Lerninhalt>{

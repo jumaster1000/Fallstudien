@@ -1,4 +1,4 @@
-package Klausurvorbereitung;
+package Klausurvorbereitung.Beispiel_Lerninhalte;
 
 public abstract class Lerninhalt {
     private String titel;
