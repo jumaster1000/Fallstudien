@@ -1,4 +1,4 @@
-package Klausurvorbereitung.AufgabenVorlesung.Generics;
+package Klausurvorbereitung.AufgabenVorlesung.Generics.Bier;
 
 public class Bier <T> implements Comparable{
     private T name;

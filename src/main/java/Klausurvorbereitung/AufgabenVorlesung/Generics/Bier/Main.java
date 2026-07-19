@@ -1,6 +1,4 @@
-package Klausurvorbereitung.AufgabenVorlesung.Generics;
-
-import java.util.Arrays;
+package Klausurvorbereitung.AufgabenVorlesung.Generics.Bier;
 
 public class Main implements Comparable{
     @Override
